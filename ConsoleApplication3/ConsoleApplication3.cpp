@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Tst");
+	printf("Tst");
     return 0;
 }
 
