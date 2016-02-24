@@ -6,6 +6,7 @@
 
 int main()
 {
+	printf("Tst");
     return 0;
 }
 
